@@ -5,9 +5,9 @@ Type "copyright", "credits" or "license()" for more information.
     if i % 15 == 0:
         print "multiplo de los dos"
     elif i % 3 == 0:
-        print "Fizz"
+        print "woddy"
     elif i % 5 == 0:
-        print "Buzz"
+        print "Buzzlightyear"
     else:
         print i
 
