@@ -3,7 +3,7 @@ Python 2.7.6 (default, Mar 22 2014, 22:59:56)
 Type "copyright", "credits" or "license()" for more information.
 >>> for i in xrange(1, 101):
     if i % 15 == 0:
-        print "FizzBuzz"
+        print "multiplo de los dos"
     elif i % 3 == 0:
         print "Fizz"
     elif i % 5 == 0:
